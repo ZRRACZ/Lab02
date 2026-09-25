@@ -1,4 +1,12 @@
-﻿//Part 1: Road Trip
+﻿/*
+* Name: Zackery Racz
+* Course: CSCI 1250, Section 001
+* Assignment: Lab 02, Trip Calculator
+* Date: September 24, 2026
+* Description: Calculates the fuel, food, and work hours behind one road trip.
+*/
+
+//Part 1: Road Trip
 
 //Question/Answer
 using System.Reflection.Metadata;
